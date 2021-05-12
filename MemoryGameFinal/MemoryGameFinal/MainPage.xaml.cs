@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MemoryGameFinal.Views;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
@@ -13,6 +14,11 @@ namespace MemoryGameFinal
         public MainPage()
         {
             InitializeComponent();
+        }
+
+        private async void PlayButton_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new GamePlay());
         }
     }
 }

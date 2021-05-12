@@ -1,0 +1,15 @@
+C:\Dule\Work\MemoryGameFinal\MemoryGameFinal\MemoryGameFinal\bin\Debug\netstandard2.0\MemoryGameFinal.deps.json
+C:\Dule\Work\MemoryGameFinal\MemoryGameFinal\MemoryGameFinal\bin\Debug\netstandard2.0\MemoryGameFinal.dll
+C:\Dule\Work\MemoryGameFinal\MemoryGameFinal\MemoryGameFinal\bin\Debug\netstandard2.0\ref\MemoryGameFinal.dll
+C:\Dule\Work\MemoryGameFinal\MemoryGameFinal\MemoryGameFinal\bin\Debug\netstandard2.0\MemoryGameFinal.pdb
+C:\Dule\Work\MemoryGameFinal\MemoryGameFinal\MemoryGameFinal\obj\Debug\netstandard2.0\MemoryGameFinal.csprojAssemblyReference.cache
+C:\Dule\Work\MemoryGameFinal\MemoryGameFinal\MemoryGameFinal\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Dule\Work\MemoryGameFinal\MemoryGameFinal\MemoryGameFinal\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Dule\Work\MemoryGameFinal\MemoryGameFinal\MemoryGameFinal\obj\Debug\netstandard2.0\Views\GamePlay.xaml.g.cs
+C:\Dule\Work\MemoryGameFinal\MemoryGameFinal\MemoryGameFinal\obj\Debug\netstandard2.0\MemoryGameFinal.AssemblyInfoInputs.cache
+C:\Dule\Work\MemoryGameFinal\MemoryGameFinal\MemoryGameFinal\obj\Debug\netstandard2.0\MemoryGameFinal.AssemblyInfo.cs
+C:\Dule\Work\MemoryGameFinal\MemoryGameFinal\MemoryGameFinal\obj\Debug\netstandard2.0\MemoryGameFinal.csproj.CoreCompileInputs.cache
+C:\Dule\Work\MemoryGameFinal\MemoryGameFinal\MemoryGameFinal\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Dule\Work\MemoryGameFinal\MemoryGameFinal\MemoryGameFinal\obj\Debug\netstandard2.0\MemoryGameFinal.dll
+C:\Dule\Work\MemoryGameFinal\MemoryGameFinal\MemoryGameFinal\obj\Debug\netstandard2.0\ref\MemoryGameFinal.dll
+C:\Dule\Work\MemoryGameFinal\MemoryGameFinal\MemoryGameFinal\obj\Debug\netstandard2.0\MemoryGameFinal.pdb
